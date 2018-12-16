@@ -1,0 +1,26 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "burger homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navaato305/burger.git"
+  },
+  "author": "David",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/navaato305/burger/issues"
+  },
+  "homepage": "https://github.com/navaato305/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.9",
+    "mysql": "^2.14.1"
+  }
+}
